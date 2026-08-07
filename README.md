@@ -142,13 +142,9 @@ This project demonstrates practical use of:
 
 ## 👨‍💻 Author
 
-**Sakhoyat**
+Md Sakhoyat Hossain Siam
 
-Computer Science Student • Cybersecurity Enthusiast • Python Learner
 
-GitHub: https://github.com/thesakhoyat-og
-
----
 
 ## ⭐ Support
 
