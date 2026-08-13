@@ -1,6 +1,4 @@
-# 🛡️ Security Log Analyzer
 
-A lightweight Python-based security log analyzer that parses authentication logs, detects suspicious login activity, and generates a clean security report.
 
 ---
 
